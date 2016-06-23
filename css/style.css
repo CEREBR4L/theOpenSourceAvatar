@@ -6,8 +6,8 @@ body{ padding: 0; margin: 0; }
 }
 
 #images{
-	height: 150px;
-	width: 150px;
+	height: 250px;
+	width: 250px;
 	display: inline-block;
 	margin: 10px;
 }
@@ -24,7 +24,8 @@ nav{
 
 h1{
 	font-family: sans-serif;
-	color: #8d3fb9;
+	background-color: #5175a5;
+	color: #fff;
 	font-weight: 300;
 	font-size: 1.20em;
 }
