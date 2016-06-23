@@ -33,7 +33,7 @@ new Vue ({
 				link: "../avatars/l33tceb2.png"
 			},
 			{
-				link: "../avatars/moonbase.png"
+				link: "../avatars/MOONBASE.png"
 			}
 		]
 	}
