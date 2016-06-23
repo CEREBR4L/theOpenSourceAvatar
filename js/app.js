@@ -3,37 +3,37 @@ new Vue ({
 	data: {
 		images: [
 			{
-				link: "../avatars/klingoneCEREBForeheadDoneHD.png"
+				link: "../theOpenSourceAvatar/avatars/klingoneCEREBForeheadDoneHD.png"
 			},
 			{
-				link: "../avatars/ceb3.0.png"
+				link: "../theOpenSourceAvatar/avatars/ceb3.0.png"
 			},
 			{
-				link: "../avatars/ceb3.1.png"
+				link: "../theOpenSourceAvatar/avatars/ceb3.1.png"
 			},
 			{
-				link: "../avatars/cerebr4l_2000.png"
+				link: "../theOpenSourceAvatar/avatars/cerebr4l_2000.png"
 			},
 			{
-				link: "../avatars/eXMachinaTerminatorSuperModel.png"
+				link: "../theOpenSourceAvatar/avatars/eXMachinaTerminatorSuperModel.png"
 			},
 			{
-				link: "../avatars/eyez.png"
+				link: "../theOpenSourceAvatar/avatars/eyez.png"
 			},
 			{
-				link: "../avatars/fresh.png"
+				link: "../theOpenSourceAvatar/avatars/fresh.png"
 			},
 			{
-				link: "../avatars/fresh-badge.png"
+				link: "../theOpenSourceAvatar/avatars/fresh-badge.png"
 			},
 			{
-				link: "../avatars/klingoneCEREBForeheadDone.png"
+				link: "../theOpenSourceAvatar/avatars/klingoneCEREBForeheadDone.png"
 			},
 			{
-				link: "../avatars/l33tceb2.png"
+				link: "../theOpenSourceAvatar/avatars/l33tceb2.png"
 			},
 			{
-				link: "../avatars/MOONBASE.png"
+				link: "../theOpenSourceAvatar/avatars/MOONBASE.png"
 			}
 		]
 	}
