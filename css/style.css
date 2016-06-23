@@ -1,0 +1,21 @@
+#images{
+	height: 150px;
+	width: 150px;
+	display: inline-block;
+}
+
+#images>img{
+	width: 100%;
+}
+
+nav{
+	padding: 15px;
+	margin-bottom: 20px;
+	background-color: #eee;
+}
+
+h1{
+	color: #444;
+	font-weight: 300;
+	font-size: 1.25em;
+}
