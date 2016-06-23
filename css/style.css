@@ -1,4 +1,4 @@
-body{ padding: 0; margin: 0; }
+body{ padding: 0; padding-bottom: 50px; margin: 0; }
 
 #cont{
 	width: 80%;
@@ -19,12 +19,11 @@ body{ padding: 0; margin: 0; }
 nav{
 	padding: 15px;
 	margin-bottom: 20px;
-	background-color: #eee;
+	background-color: #5175a5;
 }
 
 h1{
 	font-family: sans-serif;
-	background-color: #5175a5;
 	color: #fff;
 	font-weight: 300;
 	font-size: 1.20em;
