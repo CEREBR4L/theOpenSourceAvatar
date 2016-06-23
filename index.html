@@ -9,9 +9,10 @@
 	<nav>
 		<h1>theOpenSourceAvatar</h1>
 	</nav>
-
-	<div v-for="i in images" id="images">
-		<img v-bind:src="i.link" alt="image">
+	<div id="cont">
+		<div v-for="i in images" id="images">
+			<img v-bind:src="i.link" alt="image">
+		</div>
 	</div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.25/vue.min.js"></script>
