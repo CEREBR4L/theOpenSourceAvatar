@@ -1,7 +1,7 @@
 new Vue ({
 	el: '#images',
 	data: {
-		images: {[
+		images: [
 			{
 				link: "../avatars/klingoneCEREBForeheadDoneHD.png"
 			},
@@ -35,6 +35,6 @@ new Vue ({
 			{
 				link: "../avatars/moonbase.png"
 			}
-		]}
+		]
 	}
-})
+});
