@@ -34,6 +34,9 @@ new Vue ({
 			},
 			{
 				link: "../theOpenSourceAvatar/avatars/MOONBASE.png"
+			},
+			{
+				link: "../theOpenSourceAvatar/avatars/candidateX.png"
 			}
 		]
 	}
